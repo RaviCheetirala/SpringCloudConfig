@@ -1,0 +1,5 @@
+log:
+    location:c:/ravi
+    size: 123KB
+    level: DEBUG
+    
