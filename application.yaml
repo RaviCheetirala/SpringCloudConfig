@@ -1,0 +1,8 @@
+db:
+        connection: mydb
+        port: 1526
+        user: applic
+        pwd: name
+myconfig:
+        prop1: name
+        prop2: age
