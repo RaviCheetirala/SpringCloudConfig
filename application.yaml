@@ -1,6 +1,6 @@
 db:
         connection: mydb
-        port: 1526
+        port: 1521
         user: applic
         pwd: name
 myconfig:
