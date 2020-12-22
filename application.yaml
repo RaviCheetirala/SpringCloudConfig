@@ -6,3 +6,8 @@ db:
 myconfig:
         prop1: name
         prop2: age
+service1:
+         port: 8080
+service1:
+         name: service1
+         
